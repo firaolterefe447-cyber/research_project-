@@ -1,0 +1,14 @@
+Attendance Management Descriptive Analysis
+
+Valid participant records: 0
+
+Likert summaries:
+  manual_time_problem: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  manual_record_accuracy: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  learning_interruption: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  proxy_risk: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  correction_difficulty: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  digital_time_saving: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  digital_acceptance: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  internet_barrier: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
+  privacy_concern: n=0, mean=Not available; 1: 0, 2: 0, 3: 0, 4: 0, 5: 0
